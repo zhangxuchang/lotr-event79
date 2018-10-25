@@ -1,0 +1,9 @@
+{
+    "targets": {
+        "event79-lotr": {
+            "type": "static",
+            "hosts": "event79-lotr.oasgames.com",
+            "root": "public"
+        }
+    }
+}
